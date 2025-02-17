@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "home automation using lpc2129.o" --strict --scatter "mms.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\mms.map" -o mms.axf
