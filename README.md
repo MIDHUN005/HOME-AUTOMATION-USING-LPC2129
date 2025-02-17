@@ -32,8 +32,6 @@ A microcontroller-based home automation system using **LPC2129** with Bluetooth 
    - Motor Driver to P0.12 & P0.13
 
 2. **Software Setup**
-   ```bash
-   git clone https://github.com/yourusername/lpc2129-home-automation.git
    Open project in Keil uVision
    Build project (Project -> Build Target)
    Flash using Flash Magic
